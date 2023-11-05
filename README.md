@@ -1,4 +1,3 @@
-# litlink
-prom: data<evms>
-by: link.band
-conservative: be.web3
+# lit.link
+Provide Accurate Data Points to "Deri.Dexes"
+Collabs 🔗 "Limk,Rand & Pia"
